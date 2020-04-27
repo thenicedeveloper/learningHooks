@@ -1,3 +1,12 @@
+## Specific to this app:
+1) See how the useState and useEffect are implemented
+2) See how state gets updated
+3) See how JSX is rendered, specifically look at the map function 
+4) When using map, note that the rendered jsx needs a unique key.
+5) You can remove items from a state array using filter.
+6) Using the spread operator with arrays [...state] and objects {...state} is of great use.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

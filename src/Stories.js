@@ -8,7 +8,7 @@ function Stories(){
 
     return (
         <div className="Stories">
-            <h3>Stories</h3>
+            <h3>Top 10 Stories</h3>
             {
                 stories.map(storie => {
                     const {id, by, time, title, url } = storie;
